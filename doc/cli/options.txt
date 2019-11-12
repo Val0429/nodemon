@@ -2,6 +2,7 @@
 Configuration
   --config <file> .......... alternate nodemon.json config file to use
   --exitcrash .............. exit on crash, allows nodemon to work with other watchers
+  --restartcrash ........... `Val Liu` edited, restart on crash.
   -i, --ignore ............. ignore specific files or directories
   --no-colors .............. disable color output
   --signal <signal> ........ use specified kill signal instead of default (ex. SIGTERM)
