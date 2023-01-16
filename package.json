@@ -1,5 +1,5 @@
 {
-  "name": "nodemon",
+  "name": "@valuis0429/nodemon",
   "homepage": "http://nodemon.io",
   "author": {
     "name": "Remy Sharp",
@@ -66,5 +66,5 @@
     "undefsafe": "^2.0.2",
     "update-notifier": "^2.5.0"
   },
-  "version": "1.0.2"
+  "version": "1.0.1"
 }
